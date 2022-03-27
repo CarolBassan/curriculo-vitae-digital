@@ -1,0 +1,55 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+  }
+  
+  main {
+    text-align: center;
+    display: flex;
+  }
+  
+  strong {
+    color: rgb(12, 11, 11);
+  }
+  
+  a {
+    padding: 10px;
+    text-align: center;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .text1 {
+    font-size: 60px;
+  }
+  
+  .Minha-imagem {
+    text-align: center;
+    width: 150px;
+    border-radius: 50%;
+    border: solid 5px rgb(0, 0, 0);
+  }
+  
+  .esquerda {
+    padding: 25% 0%;
+    background-color: rgb(236, 115, 2);
+    width: 30%;
+    height: 100vh;
+  }
+  
+  .direita {
+    padding: 25% 0%;
+    background-color: white;
+    width: 70%;
+    height: 100vh;
+  }
+  
+  .hrefs {
+    margin-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-size: 20px;
+  }
+  
